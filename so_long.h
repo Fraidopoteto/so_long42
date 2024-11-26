@@ -6,7 +6,7 @@
 /*   By: Furaido <Furaido@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/11 20:01:52 by joschmun          #+#    #+#             */
-/*   Updated: 2024/11/26 13:48:10 by Furaido          ###   ########.fr       */
+/*   Updated: 2024/11/26 19:45:47 by Furaido          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -126,7 +126,6 @@ void			init_game00(t_game *game);
 int				init_game01(int argc, char **argv, t_game *game);
 
 //main.c
-void			init_game(t_game *game);
 int				start_game(t_game *game);
 int				error(t_game *game);
 
